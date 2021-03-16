@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Darkk3nDevs.Stationary.Server/obj/Debug/netcoreapp3.1
+/Darkk3nDevs.Stationary.Server/obj/Release/netcoreapp3.1
+/Darkk3nDevs.Stationary.Server/obj
+/packages
+/PapeleriaV3.Core/obj
+/PapeleriaV3.Library/obj
+/PapeleriaV3.UI/obj
+/Darkk3nDevs.Stationary.Server/bin/Debug/netcoreapp3.1
+/PapeleriaV3.Core/bin/x86/Debug
+/PapeleriaV3.Library/bin/Debug
+/PapeleriaV3.UI/bin/x86/Debug
